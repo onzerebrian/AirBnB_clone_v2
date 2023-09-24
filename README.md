@@ -1,2 +1,2 @@
 # AirBnB_clone_v2
-AirBnB_clone_v2 project models
+AirBnB_clone_v2 project
